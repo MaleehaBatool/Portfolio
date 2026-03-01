@@ -1,4 +1,4 @@
-const text = "Full Stack Developer | AI Enthusiast | React & Node.js Specialist";
+const text = "Front-end  Developer | AI Enthusiast | React & Node.js Specialist";
 let index = 0;
 
 function typeEffect() {
@@ -23,4 +23,5 @@ window.addEventListener("scroll", () => {
             section.classList.add("show");
         }
     });
+
 });
